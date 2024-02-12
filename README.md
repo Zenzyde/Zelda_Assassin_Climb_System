@@ -6,6 +6,7 @@ The basics of the movement mechanics are divided into 3 main parts:
 1. The PlayerController, which controls the state-machine
 
 ![PlayerController](/Images/PlayerController.png)
+
 2. & 3. The IPlayerMovement and PlayerMovementBase, both of which are the foundation of the inheritance and polymorphism of this system, enabling further movement mechanics to be easily adjusted and extended
 
 Branching of off that, and what makes up the major functional part of this system are the following:
