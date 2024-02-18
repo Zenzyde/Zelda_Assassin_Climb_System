@@ -24,6 +24,41 @@ Branching of off that, and what makes up the major functional part of this syste
 
 ![ZeldaClimb](/Images/Zelda-likePlayerClimbing.png)
 
+Here are some gifs highlighting most of the core functionality of the system.
+
+# Grounded movement highlights
+Basic grounded movement + varying height jumping
+
+![Grounded movement and varying height jumps](/Gifs/Ground_Move_High_Jump.gif)  
+Grounded movement into "coyote" jump
+
+![Grounded into coyote jump](/Gifs/Ground_Coyote_Jump.gif)  
+Grounded slope movement
+
+![Grounded slope movement](/Gifs/Ground_Slide_Move.gif)  
+
+# Zelda-climb highlights
+Basic Zelda-climb on straight/flat surface, i also included an upwards "wall jump" and jumping off the wall back to the ground
+
+![Zelda climb](/Gifs/Zelda_Climb.gif)  
+Basic climbing on a spherical surface
+
+![Spherical climb](/Gifs/Spherical_Climb.gif)  
+Zelda-climb on an angled surface
+
+![Zelda angle climb](/Gifs/Zelda_Angle_Climb.gif)  
+Zelda-climb, performing transitions between differently angled surfaces on a wall, also included transitioning from climbing to walking on top of a wall
+
+![Zelda corner transition climb to walk](/Gifs/Zelda_Corner_Transition_Climb_To_Walk.gif)  
+Zelda-climb, performing transitions into different climbing styles from a straight/flat surface, to a spherical surface, back to straight/flat surface
+
+![Zelda to spherical climb](/Gifs/Zelda_To_Spherical_Climb.gif)  
+
+# Assassin-climb highlights
+
+![Assassin climb](/Gifs/Assassin_Climb.gif)  
+"Basic" Assassin-esqué point-to-point climbing, with functionality for climbing along a longer ledge
+
 As it is merely a prototype, it is quite functional but requires some tweaking and smoothing out the edges before it can fully be used in any capacity. More of a proof-of-concept 😜
 
 The old version of the project can be found [here](https://github.com/Zenzyde/Free-Point_Climbing_System).
